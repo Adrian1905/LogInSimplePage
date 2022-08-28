@@ -7,7 +7,7 @@ Adrian Stokowski - połączenie interfejsu z tyłem strony, finalne sprawdzenie 
 
 Jakub Sikorski  9884
 Piotr Szewczyk 11346
-Adrian Stokowski 113445
+Adrian Stokowski 11345
 
 
 ##### Wygląd strony poniżej
