@@ -1,7 +1,7 @@
-# Simple Login page
-#### A Login page for desktop
+# Prosta strona logowania
+#### Praca wykonana poprzez 
 
 
-##### Screenshot
+##### Wygląd strony
 
 ![image description](./images/preview.png)
